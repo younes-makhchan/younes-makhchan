@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makhchan Younes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youness-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="youness-cyber" /> </p>
 
-- 💻 My [portfolio](https://makhchan-portfolio.netlify.app/)
-- 🔭 I’m currently working on [Smart Rabbit](http://smart-rabbit.netlify.app/)
-
 - 📫 How to reach me **younessmakhchane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
