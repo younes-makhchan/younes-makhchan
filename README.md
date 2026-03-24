@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youness-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="youness-cyber" /> </p>
 
 - How to reach me: **younessmakhchane@gmail.com**
-- Portfolio: [**makhchan.tech**](https://makhchan.ma)
+- Portfolio: [**makhchan.ma**](https://makhchan.ma)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
